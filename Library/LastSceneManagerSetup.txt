@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/screens/MainHub.unity
+- path: Assets/screens/Vibe.unity
   isLoaded: 1
   isActive: 1

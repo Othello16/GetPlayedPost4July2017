@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{74CFB92B-C7F8-7770-F45A-A28019EEF5A2}</ProjectGuid>
+    <ProjectGuid>{38AAB41D-FFC8-114A-40A0-2D6E153F7C7A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -47,9 +47,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\NewEditModeTest.cs" />
- <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/erica/OneDrive/GetPLayeDUnityV5Xman/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
- </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
@@ -125,7 +122,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{5E92523B-693A-D848-30EE-1E17DD5304AB}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{BA9E7EB2-4647-664B-9394-9678492D6E5E}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

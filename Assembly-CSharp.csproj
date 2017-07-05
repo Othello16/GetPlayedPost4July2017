@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5E92523B-693A-D848-30EE-1E17DD5304AB}</ProjectGuid>
+    <ProjectGuid>{BA9E7EB2-4647-664B-9394-9678492D6E5E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -54,9 +54,6 @@
      <Compile Include="Assets\code\lose_colider.cs" />
      <Compile Include="Assets\code\options_controller.cs" />
      <Compile Include="Assets\code\screen.cs" />
- <Reference Include="Facebook.Unity.Settings">
- <HintPath>C:/Users/erica/OneDrive/GetPLayeDUnityV5Xman/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
