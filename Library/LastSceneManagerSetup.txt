@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/screens/createPlayer/CreateProfile.unity
+- path: Assets/screens/Friends.unity
   isLoaded: 1
   isActive: 1
